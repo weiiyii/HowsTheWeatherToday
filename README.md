@@ -6,4 +6,5 @@ A progressive web app that can instantly get the most updated weather info aroun
 https://stoic-liskov-af3ddf.netlify.app  
   
 # Set Up  
-run `npm i ` then `npm start`
+run `npm i `  
+then `npm start`
