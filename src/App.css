@@ -2,18 +2,18 @@ html,
 body,
 #root {
   font: 0.9rem sans-serif;
-  background: #3575e4;
-  color: #5f80cc;
+  background: #87cefa;
+  /* color: #5f80cc; */
   height: 100%;
   margin: 0;
 }
 
 h1 {
-  color: #000;
+  color: rgb(94, 91, 91);
 }
 
 .main-container {
-  background: linear-gradient(rgba(247, 247, 247, 0.3), rgba(0, 0, 0, 0.418));
+  /* background: linear-gradient(rgba(247, 247, 247, 0.3), rgba(0, 0, 0, 0.418)); */
   background-size: cover;
   background-position: center;
 }
